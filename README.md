@@ -12,7 +12,7 @@ The repository includes code and examples for visualizing:
  This is an excellent resource for anyone looking to go beyond model accuracy and dive into **how CNNs process images and what they learn at different stages**.
 
  # Clone the repo
-git clone https://github.com/mohammadseifi/Cifar10_Classification.git
+git clone https://github.com/mohammadseifi11/Cifar10_Classification.git
 cd Cifar10_Classification
 
 # Install dependencies
